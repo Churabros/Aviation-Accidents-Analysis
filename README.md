@@ -55,3 +55,7 @@ The Data that was used for this analysis will be pulled from one file
 2. **Make -** Given its history of excellent survival rates and less injuries during accidents, the DC-10-10 stands out as the recommended choice when it comes to aircraft model for those that prioritize passenger safety. However, given that Model 157 has a higher injury rate, which may indicate safety issues that need to be fixed, it should be Avoided
 
 3. **Engines -** Aircrafts with two engines are the safer option, with lower accident rates and superior passenger protection, according to an analysis of aviation safety by engine count. Although single-engine aircraft may be more cost-effective, they carry greater dangers, hence safety precautions and regulations must be strengthened.
+
+# links
+* The Presentetion link can be found here : https://docs.google.com/presentation/d/1dSAuBg5QjJ6JlxsdudVD4z-LUDC4C2sajNAmnfZIrL4/edit?usp=sharing 
+* The Tableau Dashboard can be found here : https://public.tableau.com/views/Phase_1_project/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
